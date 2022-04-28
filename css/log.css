@@ -1,0 +1,35 @@
+/*
+* Background Images - Practice
+* CSS Styles
+*
+*/
+
+
+/* General */
+
+
+
+/* Header */
+#topbar {
+    margin: 100px auto 0 auto;
+    width: 1300px;
+    height: 430px;
+    background-image: url(../imagines/bg-01.jpg);
+    background-size: auto auto;
+}
+
+
+
+/* Tour */
+
+
+
+/* Gallery */
+
+
+
+/* Subscribe */
+
+
+
+/* Footer */
